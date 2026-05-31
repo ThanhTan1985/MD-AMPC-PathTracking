@@ -2,7 +2,6 @@
 Demo videos for the paper "Statistics-Aware Adaptive MPC Using Mahalanobis Distance for Path Tracking"
 
 # Statistics-Aware Adaptive MPC Using Mahalanobis Distance for Path Tracking
-## Abstract
 Model Predictive Control (MPC) is widely applied to path tracking in
 autonomous vehicles due to its ability to handle constraints and optimize
 future trajectories. However, fixed weighting matrices in standard MPC
